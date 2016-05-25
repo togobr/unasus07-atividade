@@ -1085,17 +1085,18 @@ function desativaRec(quem) {
         var totalQuestoes = divSuspensa.find('.quest').length,
         respostasCertas = divSuspensa.find('.right').length;
 
-        notaFinal = (respostasCertas/totalQuestoes) * 10;
+        // notaFinal = (respostasCertas/totalQuestoes) * 10;
+        // nota = respostasCertas/totalQuestoes;
 
         console.log('foo totalQuestoes ' + totalQuestoes + ", respostasCertas " + respostasCertas + ", notaFinal " + notaFinal);
         
         if(notaFinal >= 6){
             $('#item1').append(
-                '<div class="feedbackFinal positivo"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Nota final: '+ notaFinal +'</p></div>'
+                '<div class="feedbackFinal positivo"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Nota final: '+ nota +'</p></div>'
             )
         }else{
              $('#item1').append(
-                '<div class="feedbackFinal negativo"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Nota final: '+ notaFinal +'</p></div>'
+                '<div class="feedbackFinal negativo"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Nota final: '+ nota +'</p></div>'
             )
         }
 
@@ -1115,10 +1116,12 @@ function mostraFeed(quemRec, quemBt) {
 }
 
 function marcaAlt(quemRec, quemBt) {
+     var divSuspensa = $('.divSuspenca');
+
     if (gabaritosRec[quemRec - 1] == quemBt) {
         adicionaClasse($('#quest' + quemRec + 'alt' + quemBt), 1, 'right');
         if (!$('#rec' + quemRec + 'bt' + quemBt).hasClass('marcouNota')) {
-            nota += 2;
+            // nota += 2;
             // console.log('aeaeaeaeae');
             // console.log(nota);
         }
@@ -1132,6 +1135,12 @@ function marcaAlt(quemRec, quemBt) {
     $('#caminho').animate({
         scrollTop: $('#quest' + quemRec).position().top + $('#caminho').scrollTop() + 15
     }, 300);
+
+
+    var totalQuestoes = divSuspensa.find('.quest').length,
+        respostasCertas = divSuspensa.find('.right').length;
+    
+    nota = (respostasCertas/totalQuestoes) * 100;
 }
 
 function adicionaClasse(quem, onde, valor) {
