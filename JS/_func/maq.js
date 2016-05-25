@@ -782,18 +782,9 @@ function btMouseClickHandler() {
 
         console.log('foo recNum, numberOfRealrecs',parseInt(recNum), numberOfRealrecs);
 
-        if (parseInt(recNum) === numberOfRealrecs) {
-            // console.log('ULTIMA!!!! ');
-            $('#atvRec' + (parseInt(recNum) + 1)).show();
-            // console.log(tentativas);
-            if (tentativas + 1 >= 3) {
-                $('.refazerAtv').hide();
+        // if (parseInt(recNum) === numberOfRealrecs) {
 
-            } else {
-                $('.refazerAtv').show();
-            }
-
-        }
+        // }
 
 
 
@@ -1013,6 +1004,9 @@ function saiElemento(quem, quemEntra) {
 
 
 function desativaRec(quem) {
+        var divSuspensa = $('.divSuspenca'),
+            notaFinal = 0;
+
     $('#atvRec' + quem + ' div').each(function(index, value) {
 
 
@@ -1087,6 +1081,24 @@ function desativaRec(quem) {
 
 
     if (quem == contRec) {
+
+        var totalQuestoes = divSuspensa.find('.quest').length,
+        respostasCertas = divSuspensa.find('.right').length;
+
+        notaFinal = (respostasCertas/totalQuestoes) * 10;
+
+        console.log('foo totalQuestoes ' + totalQuestoes + ", respostasCertas " + respostasCertas + ", notaFinal " + notaFinal);
+        
+        if(notaFinal >= 6){
+            $('#item1').append(
+                '<div class="feedbackFinal positivo"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Nota final: '+ notaFinal +'</p></div>'
+            )
+        }else{
+             $('#item1').append(
+                '<div class="feedbackFinal negativo"><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. Nota final: '+ notaFinal +'</p></div>'
+            )
+        }
+
         salvaSuspendObject("tentativas", tentativas)
         marcaFim();
         finaliza();
@@ -1275,8 +1287,6 @@ function sticky_navigation(quem) {
             if (scroll_top < quem.data('top')) {
                 quem.css('position', 'fixed');
                 quem.css("top", (Number(quem.data('top')) - Number(scroll_top) + 20) + "px");
-
-                console.log(quem.css("top", (Number(quem.data('top')) - Number(scroll_top) - 23) + "px"))
 
             } else {
                 quem.css("top", "0px");
