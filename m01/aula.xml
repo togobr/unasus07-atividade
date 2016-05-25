@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aula gravaNota="true" scorm="true">Tomada de decisão
+	<insercao>
+		
+		
+	</insercao>
+	
+
+	
+	<slide esconde="#dadosPaciente" mostra="#barraTopo #caminho">
+
+			<insere onde="body"><![CDATA[<div id="barraTopo" class="fixaTop barraFixa esquerda">
+				<div class="subAt"></div>
+			<img src="CSS/assets/images/UNAS07_UNI1_icone_QuestoesAvaliativas_Moodle.png" class="logoQuestoes"></img>
+			<h1 class="subtAgindo">Questões Avaliativas</h1>
+			</div>]]>
+			</insere>
+
+
+
+		<recBotoes selecao="multipla" tipo="atividade" gabarito="2">				
+			<divRec>
+				<texto><![CDATA[<div class="spacerVert"><div class="numeros">1</div><div class="inline texto enunciado">Leia, atentamente, o texto a seguir:</br></br>No contexto atual brasileiro, ainda é possível afirmar que o uso dos sistemas de saúde pelos homens difere, em geral, do praticado pelas mulheres. Sobre esta afirmação, é correto afirmar que: </div></div>]]></texto>
+			</divRec>
+
+			<divRec class="sanfona sanfonaRecuo">				
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">São raros os casos em que homens adultos entram em contato com os serviços de saúde por meio da atenção especializada, pois no cenário atual os usuários do sexo masculino procuram atendimento especificadamente para urgências e emergências.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Reflita. Geralmente, os homens adultos entram em contato com os serviços de saúde apenas por meio da atenção especializada ou das urgências e emergências, com doenças já insta­ladas e, consequentemente, com piores prognósticos – o que pode gerar um alto custo ao sistema.</div>]]>
+				</cont>
+				
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa"><p>A Política Nacional de Atenção Integral à Saúde do Homem (PNAISH) destaca a necessidade de se fortalecer e qualificar a atenção pri­mária para a população masculina, possi­bilitando alcançar a promoção da saúde e a prevenção dos problemas evitáveis.</p></div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você acertou: </b>Resposta correta! Lembre que é necessário considerar a categoria de gênero como um determinante de saúde da população masculina. No texto da PNAISH é possível perceber a importância dos aspectos socioculturais, e da perspectiva relacional de gênero, para a implementação de linhas de cuidado que respeitem a integralidade da atenção aos homens.</div>]]>					
+				</cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">A recente alta procura dos serviços de atenção primária à saúde pelos homens em relação à baixa procura das mulheres aos serviços de saúde, que buscam auxílio especializado apenas quando as doenças já estão instaladas, começaram a ser tema de estudos nos anos 2000.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou: </b>Analise novamente esta afirmação. Na verdade é a baixa procura dos serviços de atenção primária à saúde pelos homens e a busca de auxílio especializado apenas quando as doenças já estão instaladas que têm sido tema de estudos, com o objetivo de entender o porquê deste comportamento. E, também, não há um ano específico para marcar este início. Além disso, as mulheres ainda continuam procurando mais o serviço de saúde que os homens.</div>]]>
+				</cont>	
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">O texto da Política Nacional de Atenção Integral à Saúde do Homem (PNAISH) aborda aspectos socioculturais para a implementação de linhas de cuidado que respeitem a integralidade da atenção aos homens. A questão de gênero é abordada por outra política, a Política Nacional de Atenção Integral à Saúde Relacionada ao Gênero (PNAISRG).</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou: </b>Relembre este trecho do conteúdo. De fato, no texto da PNAISH é possível perceber a importância dos aspectos socioculturais, mas também da perspectiva relacional de gênero, para a implementação de linhas de cuidado que respeitem a integralidade da atenção aos homens.</div>]]></cont>	
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">As questões de gênero não interferem no cuidado à saúde do homem, pois na verdade são os fatores de risco, e o modo como se comportam na população masculina, que acometem a sua saúde.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou: </b>Pense bem. As questões de gênero in­fluenciam sim no cuidado à saúde do homem e como os fatores de risco se comportam na população masculina.</div>]]>
+				</cont>				
+			</divRec>			
+		</recBotoes>
+
+	
+
+
+
+
+		
+		<recBotoes selecao="multipla" tipo="atividade" gabarito="4">
+			<divRec>
+				<texto><![CDATA[<div class="linhaDivisao"></div>]]></texto>
+			</divRec>
+			<divRec>
+				<texto><![CDATA[<div><div class="numeros">2</div><div class="inline texto enunciado">Leia, atentamente, o texto a seguir:</br></br>Se por um lado parece vantajoso conservar uma masculinidade dominante, manter tal ideal é um grande fator de risco para um homem. De acordo com Gomes (2008), analise como verdadeiras ou falsas as características das masculinidades hegemônicas:</br></br> (   ) Baseia-se na configuração relacional das práticas de gênero que são aceitas socialmente, estabelecendo e assegurando as posições de dominantes e dominados, exemplificada pela subordinação entre os sexos.</br>(   ) Se refere a indivíduos poderosos, que correspondem a um tipo de masculinidade tida por exemplar para todos os outros.</br>(   ) Possui aspecto ideológico, pois naturaliza as diferenças entre os sexos.</br>(   ) Expressa uma posição sempre em disputa, sendo um modelo fixo direcionado ao porte físico do homem. </br></br> Agora, assinale a alternativa que relaciona corretamente a sequência: </div></div>]]></texto>
+			</divRec>
+
+			<divRec class="sanfona sanfonaRecuo">				
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">F, V, V, F</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Reflita novamente. A primeira alternativa está correta, já a segunda é falsa, pois as masculinidades hegemônicas não se referem a indivíduos poderosos, mas a um tipo de masculinidade tida por exemplar em diferentes contextos.</div>]]></cont>	
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">F, F, V, F.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Analise novamente a primeira afirmação, pois se trata de uma alternativa verdadeira: de fato, as masculinidades hegemônicas baseiam-se na configuração relacional das práticas de gênero que são aceitas socialmente, estabelecendo e assegurando as posições de dominantes e dominados, exemplificada pela subordinação entre os sexos.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">V, V, F, V</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b>Preste atenção ao conteúdo estudado. A única alternativa assinalada corretamente foi a primeira, que é verdadeira.  As alternativas falsas (segunda e quarta alternativas) correspondem às características de masculinidades hegemônicas que não se refere a indivíduos poderosos, mas a um tipo de masculinidade tida por exemplar, e expressa uma posição sempre em disputa, não sendo um modelo fixo. A terceira alternativa da questão é também verdadeira, pois a masculinidade hegemônica possui aspecto ideológico, visto que naturaliza as diferenças entre os sexos.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">V, F, V, F</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você acertou:</b> Muito bem, você acertou. As alternativas falsas, na verdade, correspondem às características de masculinidades hegemônicas que não se referem a indivíduos poderosos, mas a um tipo de masculinidade tida por exemplar, e expressa uma posição sempre em disputa, não sendo um modelo fixo.</div>]]></cont>	
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">F, V, F, V</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Pense bem. As alternativas falsas, na verdade, correspondem às características de masculinidades hegemônicas que não se referem a indivíduos poderosos, mas a um tipo de masculinidade tida por exemplar, e expressa uma posição sempre em disputa, não sendo um modelo fixo. As outras proposições da questão são verdadeiras.</div>]]></cont>
+			</divRec>
+		</recBotoes>
+
+
+
+
+
+
+		<recBotoes selecao="multipla" tipo="atividade" gabarito="1">			
+			<divRec>
+				<texto><![CDATA[<div class="linhaDivisao"></div>]]></texto>
+			</divRec>
+			<divRec>
+				<texto><![CDATA[<div><div class="numeros">3</div><div class="inline texto enunciado">Leia, atentamente, o texto a seguir:</br></br>É importante que o profissional de saúde reconheça a influência das questões de gênero na saúde do homem para ser capaz de oferecer um atendimento integral, incluindo ações de prevenção e intervenção nos fatores de risco às principais doenças desta população. Sobre este tema, relacionando-o com as questões de gênero e ao uso de álcool, tabaco e outras drogas, analise as afirmações e assinale a alternativa correta: </div></div>]]></texto>
+			</divRec>
+
+			<divRec class="sanfona sanfonaRecuo">
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">Entre os problemas físicos em decorrência do abuso do álcool estariam a cirrose hepática e a miocardiopatia alcoólica, além das lesões decorrentes de acidentes.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você acertou:</b> Isso mesmo, a resposta está correta. Lembre também que os transtornos mentais e comportamentais devido ao uso de álcool são os responsáveis pelo maior número de mortes associadas ao uso de drogas, correspondendo a aproximadamente 90% dos casos, seguidos pelos transtornos mentais e comportamentais devidos ao uso de tabaco, com cerca de 6%, e dos transtornos mentais e comportamentais devido ao uso de cocaína, com 0,4% (DUARTE et al., 2009).</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">O tabagismo é um fator de risco para o desenvolvimento de uma série de doenças crônicas, mas estudos recentes afirmam que é cedo para comprovar que esteja relacionado a causas de mortes evitáveis.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Pense bem! O tabagismo é de fato um importante fator de risco para o desenvolvimento de uma série de doenças crônicas, tais como o câncer, as doenças pulmonares e as doenças cardiovasculares, de modo que o uso do tabaco continua sendo o líder global entre as causas de mortes que podem sim ser evitáveis.</div>]]></cont>	
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">Chama a atenção um comportamento culturalmente marca­do pelas distinções de gênero, ainda mais praticado por mulheres: o hábito de fumar, fator de risco bem estabeleci­do para este tipo de câncer. No entanto, este fator de risco continua crescendo exponencialmente no cenário masculino.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Pense bem. Quando se considera o câncer de pulmão e a morbimortalidade dos indivíduos de sexo masculino, chama a atenção um comportamento culturalmente marca­do pelas distinções de gênero: o hábito de fumar, fator de risco bem estabeleci­do para este tipo de câncer (SCHRAIBER et al., 2005). A boa notícia é que a cessação do tabagismo sugere estar ligeiramente aumentando entre os homens.</div>]]></cont>		
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">As mulheres ge­ralmente aparecem como mais propensas a usar drogas ilícitas mais precocemente e por mais tempo, em frequência e quantida­de maiores que os homens.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Preste atenção ao conteúdo estudado. Na verdade, os homens ge­ralmente aparecem como mais propensos a usar drogas ilícitas mais precocemente, por mais tempo, em frequência e quantida­de maiores que as mulheres. No entanto, embora a taxa de consumo de drogas seja mais ele­vada entre os homens, vem diminuindo a proporção entre os sexos.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">Comprovadamente, relacionados ao uso de drogas ilícitas, é possível constatar que não existem diferenças fisiológicas, entre homens e mulheres, que determinem agravos de saúde exatamente iguais.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Fique alerta! As diferenças fisiológicas entre homens e mulheres determinam sim distintos agravos de saúde, também quando relacionados ao uso de drogas ilícitas. Ao abordar o uso de drogas ilícitas por ho­mens, é importante lembrar a dificuldade na atenção à saúde deste gru­po, especialmente quanto a questões de gênero. </div>]]></cont>	
+			</divRec>
+		</recBotoes>
+
+
+
+
+
+		<recBotoes selecao="multipla" tipo="atividade" gabarito="4">				
+			<divRec>
+				<texto><![CDATA[<div class="linhaDivisao"></div>]]></texto>
+			</divRec>
+			<divRec>
+				<texto><![CDATA[<div><div class="numeros">4</div><div class="inline texto enunciado">Leia, atentamente, o texto a seguir:</br></br>O câncer é uma das principais causas de morbidade e mortalidade no homem. Sobre os tipos de câncer que mais acometem a saúde desta população, relacione as colunas e assinale a alternativa que enumera corretamente esta relação:</br></br>(1) Câncer de próstata</br>(2) Câncer de colorretal</br>(3) Câncer de estômago</br>(4) Câncer de pulmão</br></br> ( ) No Brasil, é o câncer mais incidente. A idade é o único fator de risco estabelecido. A incidência deste tipo de câncer acompanha o processo de envelhecimento em decorrência de uma maior exposição das células das pessoas idosas a diversos fatores de risco cancerígenos.</br>() ) No Brasil, é a primeira causa de óbito por neoplasias em homens. Os fatores relacionados ao modo de vida e às condições ambientais são os principais determinantes deste tipo de câncer, uma das principais causas de morte evitáveis no mundo. Os usuários de tabaco têm cerca de 20 a 30 vezes mais risco de desenvolvê-lo quando comparados aos não fumantes. Além disso, fatores ambientais, como a exposição ocupacional e ambiental a alguns cancerígenos, devem ser relacionados como fatores de risco.</br>( ) No Brasil, é o terceiro mais frequente, sendo a quarta causa de óbitos por câncer em homens. Os fatores relacionados à alimentação são um dos principais determinantes deste tipo de câncer. Outros fatores de risco modificáveis, como o uso de bebidas alcoólicas, o tabagismo e a obesidade estão fortemente associados a sua ocorrência, principalmente a gordura abdominal nos homens.</br>( ) No Brasil, é o quarto mais frequente. O maior fator de risco para o desenvolvimento deste tipo de câncer, em todo o mundo, é a infecção prolongada pela bactéria H. pyilori, associada a aproximadamente 60% das ocorrências. O consumo de frutas e verduras apresenta uma redução no risco em 25% a 17%.</div></div>]]></texto>
+			</divRec>
+			<divRec class="sanfona sanfonaRecuo">				
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">4, 1, 2, 3</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Fique atento. Na verdade, o câncer de próstata é o mais incidente e o câncer de pulmão a primeira causa de óbito por</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">1, 4, 3, 2</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Pense bem. Na verdade, o câncer de colorretal é o terceiro mais frequente, sendo a quarta causa de óbitos por câncer em homens. Já o câncer de estômago é o quarto mais frequente. As outras alternativas foram relacionadas corretamente.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">2, 4, 1, 3</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Fique alerta! O câncer de estômago foi o único corretamente relacionado. As outras alternativas foram relacionadas incorretamente. Retorne à leitura para aprofundar conhecimentos sobre este importante tema!</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">1, 4 , 2, 3</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você acertou:</b>Muito bem, você acertou a resposta! Lembre que a detecção precoce do potencial de malignidade das células possibilita uma condição mais favorável para seu tratamento e, consequentemente, cura.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">1, 2, 3, 4</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Relembre o conteúdo estudado! Nenhuma das quatro alternativas foi correlacionada corretamente. Volte ao material para aprofundar conhecimentos sobre este importante tema.</div>]]></cont>	
+			</divRec>			
+		</recBotoes>
+
+
+
+
+		
+		<recBotoes selecao="multipla" tipo="atividade" gabarito="2">				
+			<divRec>
+				<texto><![CDATA[<div class="linhaDivisao"></div>]]></texto>
+			</divRec>
+			<divRec>
+				<texto><![CDATA[<div><div class="numeros">5</div><div class="inline texto enunciado">Leia, atentamente, o texto a seguir:</br></br> É preciso reconhecer que, no grupo de doenças crônicas não transmissíveis, a obesidade precisa ser destacada por ser simultaneamente uma doença e um fator de risco para outras (como a hipertensão e o diabetes, por exemplo). Já o sedentarismo é um fator que chama a atenção por ser menor entre os homens do que entre as mulheres. Sobre esses fatores, analise as afirmações a seguir e assinale a alternativa correta:</div></div>]]></texto>
+			</divRec>
+
+			<divRec class="sanfona sanfonaRecuo">	
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">A obesidade, pela sua magnitude e velocidade do aumento de casos, em breve deve ser considerada um problema de saúde pública em alguns países do mundo, especialmente por ter maior incidência na América do Norte.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Relembre! Em função da magnitude e velocidade do aumento dos casos de obesidade, em diversos países do mundo a obesidade já é sim considerada um problema de saúde pública.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">Caracterizada pelo excesso de peso, a obesidade está relacionada ao aumento da mortalidade e morbidade, atuando como fator de risco para a ocorrência de outras doenças, como a litíase biliar e a osteoartrite, dentre outras.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você acertou:</b> Muito bem, você acertou a resposta desta questão! Lembre que a obesidade também está, ainda, associada a alguns tipos de câncer, como os de cólon, de reto e de próstata. Já a inatividade física está relacionada ao au­mento da incidência de doença coronaria­na, infarto agudo do miocárdio, hipertensão arterial, entre outros agravos.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">Quanto ao sedentarismo, a prática de atividade física está relacionada ao aumento da incidência de doença coronaria­na, mas não há comprovação de relacionamento com a ocorrência de infarto agudo do miocárdio.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Pense bem. A inatividade física está relacionada ao aumento da incidência de doença coronariana, infarto agudo do miocárdio, hipertensão arterial, entre outros agravos. Fique alerta!</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">O diagnóstico do estado nutricional de adultos geralmente é feito a partir do Índice de Massa Corporal (IMC), obtido na divisão do peso (medido em quilogramas) pela frequência de atividade física na semana.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Relembre! Em estudos epidemiológicos, o diagnóstico do estado nutricional de adultos geralmente é feito a partir do Índice de Massa Corporal (IMC), obtido na divisão do peso (medido em quilogramas) pela altura ao quadrado (medida em metros). O excesso de peso é diagnosticado quando o IMC alcança resultado igual ou superior a 25, enquanto a obesidade só é diagnosticada com valores de IMC superiores a 30.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">Conforme relatório da Vigilância de Fatores de Risco e Proteção para Doenças Crônicas por Inquérito Telefônico – Vigitel (2013), o percentual de indivíduos fisicamente ativos aumenta a partir de 70 anos para o sexo masculino. Os adultos com menor escolaridade (até oito anos de estudo) também apresentam os maiores percentuais de atividade física.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Relembre o conteúdo estudado! De acordo com o Vigitel (2013), no conjunto das 27 cidades, a frequência de adultos fisicamente inativos foi de 16,2%, sendo de 16,8% entre homens e de 15,7% entre mulheres. O percentual de indivíduos fisicamente inativos aumenta a partir de 55 anos, para ambos os sexos. Os adultos com menor escolaridade (até oito anos de estudo) apresentam os maiores percentuais de inatividade física.</div>]]></cont>	
+			</divRec>
+		</recBotoes>
+
+
+
+
+
+		<recBotoes selecao="multipla" tipo="atividade" gabarito="3">				
+			<divRec>
+				<texto><![CDATA[<div class="linhaDivisao"></div>]]></texto>
+			</divRec>
+			<divRec>
+				<texto><![CDATA[<div><div class="numeros">6</div><div class="inline texto enunciado">Leia, atentamente, o texto a seguir:</br></br> A mortalidade por doenças não transmissíveis é maior entre os homens, e geralmente essas doenças são multifatoriais. Analise as sentenças descritas a seguir sobre pressão alta, colesterol elevado e hiperglicemia, fatores de risco que podem aparecer concomitantemente e precisam ser corretamente diagnosticados: </br></br> I. A hipertensão arterial sistêmica (HAS) é uma condição caracterizada por níveis elevados e sustentados de pressão arterial (PA), ou seja, PA maior ou igual a 210 x 140 mmHg, sendo os números inferiores a este indicativos de pré-hipertensão, podendo ser descartados. Além disso, a HAS é considerada um dos principais fatores de risco (FR) que não podem ser modificáveis. </br></br> II. O colesterol elevado pode causar arteriosclerose, doenças cerebrovasculares e doenças cardiovasculares. Outra situação clínica, não cardiovascular, associada à dislipidemia, particularmente à hipertrigliceridemia, é a pancreatite aguda. Níveis de triglicerídeos maiores do que 500 mg/dL podem precipitar ataques de pancreatite aguda, embora a patogênese da inflamação não seja clara. Além disso, a ingestão de gorduras saturadas é um dos principais fatores do colesterol elevado. </br></br> III. O Diabetes Mellitus (DM) refere-se a um transtorno metabólico de etiologias heterogêneas, caracterizado por hiperglicemia e distúrbios no metabolismo de proteínas, carboidratos e gorduras, devido a defeitos da secreção e/ou da ação da insulina. O DM vem aumentando sua importância pela sua crescente prevalência e habitualmente está associado à dislipidemia e à hipertensão arterial. </br></br> Agora, assinale a alternativa que indica quais afirmações são verdadeiras:  </div></div>]]></texto>
+			</divRec>
+
+			<divRec class="sanfona sanfonaRecuo">	
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">As alternativas I e II estão corretas.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Fique alerta! A HAS é de fato uma condição clínica multifatorial caracterizada por níveis elevados e sustentados de PA, mas quando a PA é maior ou igual a 140 x 90 mmHg. Além disso, é considerada um dos principais fatores de risco modificáveis e um dos mais importantes problemas de saú­de pública. As outras alternativas estão corretas.</div>]]></cont>
+
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">As alternativas I e III estão corretas.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b>Pense bem. A HAS é de fato uma condição clínica multifatorial caracterizada por níveis elevados e sustentados de pressão arterial PA, mas quando a PA é maior ou igual a 140 x 90 mmHg. Além disso, é considerada um dos principais fatores de risco modificáveis e um dos mais importantes problemas de saú­de pública. As outras alternativas estão corretas.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">As alternativas II e III estão corretas.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você acertou:</b> Você acertou, é isso mesmo! Lembre que, na verdade, a HAS é de fato uma condição clínica multifatorial caracterizada por níveis elevados e sustentados de PA, mas quando a PA é maior ou igual a 140 x 90 mmHg. Além disso, é considerada um dos principais fatores de risco modificáveis e um dos mais importantes problemas de saú­de pública. As outras alternativas estão de fato corretas.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">Apenas a alternativa II está correta.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b>Pense bem. Na verdade, a HAS é uma condição clínica multifatorial caracterizada por níveis elevados e sustentados de PA, mas quando a PA é maior ou igual a 140 x 90 mmHg. Além disso, é considerada um dos principais fatores de risco modificáveis e um dos mais importantes problemas de saú­de pública. As outras alternativas estão corretas.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">Apenas a alternativa III está correta.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b>Lembre novamente o conteúdo estudado. A HAS é de fato uma condição clínica multifatorial caracterizada por níveis elevados e sustentados de PA, mas quando a PA é maior ou igual a 140 x 90 mmHg. Além disso, é considerada um dos principais fatores de risco modificáveis e um dos mais importantes problemas de saú­de pública. As outras alternativas estão corretas.</div>]]></cont>	
+			</divRec>
+		</recBotoes>
+
+
+
+
+
+		<recBotoes selecao="multipla" tipo="atividade" gabarito="2">				
+			<divRec>
+				<texto><![CDATA[<div class="linhaDivisao"></div>]]></texto>
+			</divRec>
+			<divRec>
+				<texto><![CDATA[<div><div class="numeros">7</div><div class="inline texto enunciado">Leia, atentamente, o texto a seguir:</br></br> As Redes de Atenção à Saúde (RAS) ganham força dentro das políticas públicas de saúde como arranjos organizacionais direcionados a um conjunto de ações e serviços articulados em níveis de complexidade crescente, com a finalidade de garantir a integralidade da assistência à saúde. Sobre o tema, analise as afirmações a seguir como verdadeiras ou falsas: <br></br> ( ) As redes de atenção à saúde são organizações poliárquicas de conjuntos de serviços de saúde, vinculados entre si por uma única missão, por objetivos comuns e por uma ação cooperativa e interdependente, que permitem ofertar uma atenção contínua e integral a determinada população – prestada no tempo certo, no lugar certo, com o custo certo, com a qualidade certa e de forma humanizada, coordenada pela atenção básica. <br></br> ( ) Atualmente, as RAS ganham força dentro das políticas públicas de saúde como arranjos organizacionais, no contexto da política de regionalização, através de um decreto que define rede de atenção como um conjunto de ações e serviços de saúde articulados em níveis de complexidade crescente, com a finalidade de garantir a integralidade da assistência à saúde. <br></br> ( ) As RAS constituem-se em arranjos organizativos formados por ações e serviços de saúde, com diferentes configurações tecnológicas e missões assistenciais, articulados de forma complementar e com base territorial. <br></br> ( ) Dentre os atributos de uma RAS estão a definição de objetivos e metas que devem ser cumpridos sempre a curto prazo, articulados às políticas institucionais, com participação social restrita e prestação de serviços especializados em lugar padronizado pela gestão em vigor no território. <br></br> Agora, assinale a alternativa que corresponde à ordem correta: </div></div>]]></texto>
+			</divRec>
+
+			<divRec class="sanfona sanfonaRecuo">	
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">A obesidade, pela sua magnitude e velocidade do aumento de casos, em breve deve ser considerada um problema de saúde pública em alguns países do mundo, especialmente por ter maior incidência na América do Norte.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Relembre! Em função da magnitude e velocidade do aumento dos casos de obesidade, em diversos países do mundo a obesidade já é sim considerada um problema de saúde pública.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">Caracterizada pelo excesso de peso, a obesidade está relacionada ao aumento da mortalidade e morbidade, atuando como fator de risco para a ocorrência de outras doenças, como a litíase biliar e a osteoartrite, dentre outras.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você acertou:</b> Muito bem, você acertou a resposta desta questão! Lembre que a obesidade também está, ainda, associada a alguns tipos de câncer, como os de cólon, de reto e de próstata. Já a inatividade física está relacionada ao au­mento da incidência de doença coronaria­na, infarto agudo do miocárdio, hipertensão arterial, entre outros agravos.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">Quanto ao sedentarismo, a prática de atividade física está relacionada ao aumento da incidência de doença coronaria­na, mas não há comprovação de relacionamento com a ocorrência de infarto agudo do miocárdio.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Pense bem. A inatividade física está relacionada ao aumento da incidência de doença coronariana, infarto agudo do miocárdio, hipertensão arterial, entre outros agravos. Fique alerta!</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">O diagnóstico do estado nutricional de adultos geralmente é feito a partir do Índice de Massa Corporal (IMC), obtido na divisão do peso (medido em quilogramas) pela frequência de atividade física na semana.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Relembre! Em estudos epidemiológicos, o diagnóstico do estado nutricional de adultos geralmente é feito a partir do Índice de Massa Corporal (IMC), obtido na divisão do peso (medido em quilogramas) pela altura ao quadrado (medida em metros). O excesso de peso é diagnosticado quando o IMC alcança resultado igual ou superior a 25, enquanto a obesidade só é diagnosticada com valores de IMC superiores a 30.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">Conforme relatório da Vigilância de Fatores de Risco e Proteção para Doenças Crônicas por Inquérito Telefônico – Vigitel (2013), o percentual de indivíduos fisicamente ativos aumenta a partir de 70 anos para o sexo masculino. Os adultos com menor escolaridade (até oito anos de estudo) também apresentam os maiores percentuais de atividade física.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Relembre o conteúdo estudado! De acordo com o Vigitel (2013), no conjunto das 27 cidades, a frequência de adultos fisicamente inativos foi de 16,2%, sendo de 16,8% entre homens e de 15,7% entre mulheres. O percentual de indivíduos fisicamente inativos aumenta a partir de 55 anos, para ambos os sexos. Os adultos com menor escolaridade (até oito anos de estudo) apresentam os maiores percentuais de inatividade física.</div>]]></cont>	
+			</divRec>
+		</recBotoes>
+
+
+
+
+
+		<recBotoes selecao="multipla" tipo="atividade" gabarito="3">				
+			<divRec>
+				<texto><![CDATA[<div class="linhaDivisao"></div>]]></texto>
+			</divRec>
+			<divRec>
+				<texto><![CDATA[<div><div class="numeros">8</div><div class="inline texto enunciado">Leia, atentamente, o texto a seguir:</br></br> Muitas pessoas desconhecem seu diagnóstico quanto a doenças crônicas não transmissíveis (DCNT). Por isso, os profissionais de saúde precisam auxiliar e promover a troca de informações sobre suas ocorrências na população masculina. Especialmente no que diz respeito a Diabetes Mellitus (DM), Doenças Respiratórias Crônicas (DRC), Doença Pulmonar Obstrutiva Crônica (DPOC), Acidente Vascular Cerebral (AVC) e Infarto agudo do miocárdio (IAM), analise as colunas e assinale a alternativa que enumera corretamente a relação: </br></br> (1) Diabetes Mellitus (DM)</br>(2) Doenças Respiratórias Crônicas (DRC)</br>(3) Doença Pulmonar Obstrutiva Crônica (DPOC)</br>(4) Acidente Vascular Cerebral (AVC)</br>(5) Infarto agudo do miocárdio (IAM) </br></br> ( ) É classificado em hemorrágico ou isquêmico, sendo este último o mais frequente, representando em torno de 85% dos casos. A maior probabilidade no sexo masculino, principalmente até a idade de 50 anos, está associada a maiores exposições a fatores de risco relacionados a estilos de vida não saudáveis, tais como tabagismo, uso abusivo do álcool, sedentarismo e obesidade. </br> ( ) Refere-se a um transtorno metabólico de etiologias heterogêneas, caracterizada por hiperglicemia e distúrbios no metabolismo de carboidratos, proteínas e gorduras, resultantes de defeitos da secreção e/ou da ação da insulina. É um importante problema de saúde pública. Apresenta alta morbimortalidade no homem em decorrência de suas complicações, associadas a danos em longo prazo especialmente nos olhos, rins, nervos e no sistema circulatório. </br>( ) Estão aumentando em prevalência e afetam a qualidade de vida, pois podem provocar incapacidade nos indivíduos afetados, causando grande impacto econômico e social. Podem ser tanto das vias aéreas superiores como das inferiores. A DPOC, a asma e a rinite alérgica são as mais comuns. </br>( ) Sempre foi mais comum em homens, mas em função do aumento do uso do tabaco entre mulheres em países de alta renda e ao maior risco de exposição à poluição do ar interior em países de baixa renda, a doença passou a afetar homens e mulheres quase igualmente. São fatores externos de risco para sua ocorrência: tabagismo, poeira ocupacional, irritantes químicos, fumaça de lenha, infecções respiratórias graves na infância e condição socioeconômica. </br>( ) É caracterizado pela instalação de placas de ateroma nas coronárias, causando obstrução total ou parcial das artérias ou seus ramos. A redução do fluxo sanguíneo e isquemia, quando prolongada, acarretam hipóxia e culminam com a necrose do músculo cardíaco. Os principais fatores de risco não modificáveis são: a idade, a raça negra, o sexo masculino e a história familiar de doenças cardiovasculares. O risco aumenta progressivamente após cada década acima de 40 anos. </div></div>]]></texto>
+			</divRec>
+
+			<divRec class="sanfona sanfonaRecuo">	
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">1, 5, 4, 2, 3</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Pense bem. Nenhuma das quatro alternativas foi correlacionada corretamente. Volte a aprofundar seus conhecimentos sobre estes importantes temas! </div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">2, 5, 1, 3, 4</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Relembre! Você acertou apenas uma alternativa, referente à DPOC. Volte a aprofundar seus conhecimentos sobre DM, DRC, AVC e IAM, pois são importantes temas relacionados à saúde!</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">4, 1, 2, 3, 5</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você acertou:</b> Você acertou! Para complementar seu conhecimento, lembre que dentre as DRC mais comuns estão a asma e a rinite. A prevalência de asma no Brasil ocupa a oitava posição mundial, e no ano de 2007 foram registrados 2.500 óbitos por esta causa, dos quais aproximadamente um terço ocorreu em unidades de saúde, domicílios ou vias públicas (BRASIL, 2010). Já a rinite está entre as dez razões mais frequentes de atendimento na atenção básica, mesmo sendo uma doença que apresenta sintomas de menor gravidade. Sua manifestação afeta a qualidade de vida das pessoas, causando prejuízos pelo absenteísmo ao trabalho e à escola (BRASIL, 2010).</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">1, 4, 2, 3, 5</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Repense alguns itens abordados nesta questão! Você acertou as alternativas referentes às DRC, à DPOC e ao IAM. Volte a aprofundar seus conhecimentos sobre DM e AVC.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">3, 1, 2, 4, 5</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Relembre alguns itens desta questão! Você acertou as alternativas referentes ao DM, às DRC e ao IAM. Volte a aprofundar seus conhecimentos sobre DPOC e AVC, importantes temas relacionados à saúde!</div>]]></cont>	
+			</divRec>
+		</recBotoes>
+
+		<recBotoes selecao="multipla" tipo="atividade" gabarito="3">				
+			<divRec>
+				<texto><![CDATA[<div class="linhaDivisao"></div>]]></texto>
+			</divRec>
+			<divRec>
+				<texto><![CDATA[<div><div class="numeros">9</div><div class="inline texto enunciado">Leia, atentamente, o texto a seguir:</br></br> Ao refletir sobre possibilidades de prevenção e tratamento das doenças entre os homens e implementar estratégias para promoção da saúde, é correto afirmar que: </div></div>]]></texto>
+			</divRec>
+
+			<divRec class="sanfona sanfonaRecuo">	
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">Os principais determinantes das doenças crônicas não transmissíveis (DCNT) estão relacionados às diferenças no acesso aos serviços e informações de saúde e à inatividade física ou alimentação inadequada. Outros fatores geralmente comuns não são determinantes para prevenir as DCNT. </div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Pense bem e relembre o conteúdo estudado. Os principais determinantes das DCNT estão relacionados às desigualdades sociais, às diferenças no acesso aos bens, aos serviços e informações de saúde, à baixa escolaridade, além dos fatores de risco modificáveis, como tabagismo, consumo de bebida alcoólica, inatividade física e alimentação inadequada, tornando possível sua prevenção (WHO, 2013; BRASIL, 2011).</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">A promoção da saúde consiste em um conjunto de estratégias para atuar na melhoria da qualidade de vida dos indivíduos. As coletividades não entram neste contexto pois possuem uma visão diferenciada.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b>Reflita! A promoção da saúde consiste de fato em um conjunto de estratégias para atuar na melhoria da qualidade de vida dos indivíduos, mas também das coletividades, incluindo uma maior participação no controle deste processo.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">A definição de estratégias, ações e intervenções no meio com objetivo de atuar sobre os condicionantes e determinantes sociais de saúde, de forma intersetorial e com participação popular, possibilita escolhas saudáveis por parte dos indivíduos e coletividades no território onde residem, estudam, trabalham e convivem socialmente.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você acertou:</b> Muito bem, é isso mesmo! Lembre que os principais determinantes das DCNT estão relacionados às desigualdades sociais, às diferenças no acesso aos bens, aos serviços e informações de saúde, à baixa escolaridade, além dos fatores de risco modificáveis, como tabagismo, consumo de bebida alcoólica, inatividade física e alimentação inadequada, tornando possível sua prevenção (WHO, 2013; BRASIL, 2011).</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">O monitoramento da evolução dos hábitos alimentares e as características da morbidade são realizados especificadamente pelos profissionais da rede especializada em atendimentos de urgência e emergência.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Pense bem. O monitoramento da evolução dos hábitos alimentares e as características da morbidade podem ser realizados a partir da vigilância em saúde, realizada pelos profissionais que atuam na atenção básica, por meio do registro de informações dos atendimentos realizados ao homem no Sistema de Atenção Básica (SIAB) e Sistema de Vigilância Alimentar e Nutricional (SISVAN).</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">A atenção básica deve constituir-se como porta de entrada preferencial para o sistema de saúde, considerando que as oportunidades para o diagnóstico precoce apenas são realizados na rede especializada, em atendimentos de urgência e emergência.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Pense bem e reflita novamente sobre este tema! A atenção básica deve constituir-se como porta de entrada preferencial para o sistema de saúde, viabilizando oportunidades para o diagnóstico precoce, a mudança de comportamentos e o monitoramento de fatores de risco, condições que podem fazer a diferença na carga das DCNT, seja nas taxas de mortalidade, seja na incapacidade prematura, sem desrespeitar, contudo, a autonomia das pessoas na escolha do seu modo de viver (BRASIL, 2008b).</div>]]></cont>	
+			</divRec>
+		</recBotoes>
+
+		<recBotoes selecao="multipla" tipo="atividade" gabarito="4">				
+			<divRec>
+				<texto><![CDATA[<div class="linhaDivisao"></div>]]></texto>
+			</divRec>
+			<divRec>
+				<texto><![CDATA[<div><div class="numeros">10</div><div class="inline texto enunciado">Leia, atentamente, o texto a seguir:</br></br> Em relação à questão de gênero, é importante lembrar que a baixa procura dos serviços da atenção básica pelos homens e a busca de auxílio especializado apenas quando as doenças já estão instaladas têm sido temas de estudos, com o objetivo de entender o porquê deste comportamento. Este grupo acaba sofrendo e buscando auxílio somente quando as doenças já estão instaladas, e essa situação acontece em função de um imaginário cultural que determina características do que é ser homem. Quanto a questões relacionadas ao gênero e ao cenário comumente visto na procura aos serviços de saúde, é verdadeiro afirmar que: <br></br> Em relação à questão de gênero, é importante lembrar que a baixa procura dos serviços da atenção básica pelos homens e a busca de auxílio especializado apenas quando as doenças já estão instaladas têm sido temas de estudos, com o objetivo de entender o porquê deste comportamento. Este grupo acaba sofrendo e buscando auxílio somente quando as doenças já estão instaladas, e essa situação acontece em função de um imaginário cultural que determina características do que é ser homem. Quanto a questões relacionadas ao gênero e ao cenário comumente visto na procura aos serviços de saúde, é verdadeiro afirmar que: <br></br> I. A dificuldade em sair do trabalho para ir à unidade básica de saúde ou ao hospital é uma das principais causas relatadas, porém, é inadequado limitar a discussão à infraestrutura dos serviços de saúde, pois há outras questões implicadas sob a perspectiva de gênero que influenciam essa realidade. <br>II.  O estilo de vida masculino favorece um maior número de refeições realizadas fora do domicílio, compostas, na maioria dos casos, por alimentos industrializados e ultraprocessados, como refrigerantes, cerveja, sanduíches, salgados e salgadinhos industrializados, com alta ingestão de sal e carnes vermelhas e baixa ingesta de frutas, legumes e peixe. No entanto, é importante considerar que tais questões não influenciam no aumento do risco de doenças crônicas não transmissíveis (DCNT).<br>III. Fatores laborais estão relacionados à maior prevalência do tabagismo na população masculina, como maior carga horária, turnos noturnos, empregos em estabelecimentos abertos, estresse ocupacional e convivência com colegas tabagistas – por isso, se faz necessário investir na promoção de ambientes de trabalho livres de tabaco, com ações educativas, normativas e organizacionais que visem estimular mudanças na cultura organizacional, propiciando a redução do tabagismo, a disseminação contínua de informações sobre os riscos do tabagismo e do tabagismo passivo. <br><br> Agora, assinale a opção que indica quais afirmações são verdadeiras: </div></div>]]></texto>
+			</divRec>
+
+			<divRec class="sanfona sanfonaRecuo">	
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">Apenas a alternativa I está correta.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b>Pense bem. A alternativa III também está correta. Releia e veja que a única alternativa falsa é a II, pois os fatores relacionados imprimem sim um padrão de alimentação que aumenta o risco de DCNT. </div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">Apenas a alternativa III está correta.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Relembre! A alternativa I também está correta. Veja que a única alternativa falsa é a II, pois os fatores relacionados imprimem sim um padrão de alimentação que aumenta o risco de DCNT.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">As alternativas I e II estão corretas.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Pense bem. A alternativa III também está correta. Perceba que a única alternativa falsa é a II, pois os fatores relacionados imprimem sim um padrão de alimentação que aumenta o risco de DCNT.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">As alternativas I e III estão corretas.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você acertou:</b> Muito bem, é isso mesmo! A única alternativa falsa é a II, pois os fatores relacionados imprimem sim um padrão de alimentação que aumenta o risco de DCNT. Lembre que no campo da saúde, o gênero deve ser visto como um fator de grande importância na caracterização dos padrões de morbimortalidade masculina.</div>]]></cont>
+
+				<bt><![CDATA[<div class="questBox"></div><div class="alternativa">Todas as alternativas estão corretas.</div>]]></bt>
+				<cont><![CDATA[<div class="texto italico"><b>Você não acertou:</b> Reflita e perceba que a alternativa II é falsa, pois os fatores relacionados imprimem sim um padrão de alimentação que aumenta o risco de DCNT.</div>]]></cont>	
+				
+			</divRec>
+		</recBotoes>
+
+
+				
+	</slide>
+	
+	<slide esconde="#barraTopo .divSuspenca #dadosPaciente">
+		<topo><![CDATA[<div class="subtituloExp">EXPERIÊNCIA</div>]]></topo>
+				<texto><![CDATA[<div style="margin-left: 40px;
+margin-right: 40px;">
+
+
+			<div style="width:443px; float:left; margin-left: -31px;">
+
+				Para finalizar, <br/><br/>
+				É importante destacarmos que as dificuldades enfrentadas pelo sistema prisional em realizar uma atenção de qualidade à saúde muitas vezes são as mesmas que os trabalhadores do SUS já enfrentam todos os dias. <br/><br/>
+			Entendemos que para a atenção à saúde das pessoas privadas de liberdade o primeiro passo a ser dado, em todo o Brasil, é mostrar a importância da política culminando na adesão dos municípios a ela. <br/><br/>
+
+				
+			</div>
+
+			<div style="margin-bottom:63px;width:443px;float:right;margin-right: -29px;">
+
+				Para você ver que é possível iniciar esta caminhada rumo a uma melhor atenção à saúde das pessoas, elaboramos um relato. Clique no vídeo abaixo para assistir. <br/><br/>
+
+			<div style="margin-left: 106px;font-size: 18px;padding: 16px 15px;"class="botaoVideo"> <a href="//www.youtube.com/embed/NzSYscyfHzc"></a> VÍDEO EXPERIÊNCIA</div><br/>
+
+			
+
+			Parabéns! Você chegou ao final do primeiro módulo. Esperamos que, ao percorrer este caminho, você tenha visto que existem soluções para os desafios propostos em nossa jornada de trabalho. Lembre-se de que você pode se inspirar em casos exitosos existentes e avançar com sua equipe de trabalho na qualificação da atenção à saúde das pessoas privadas de liberdade prestada na sua prática de trabalho.
+
+				<div class="botaolike">
+			<p class="opiniao"><a href="https://unasus-cp.moodle.ufsc.br/mod/questionnaire/view.php?id=1927" target="_blank"> <i class="fa fa-thumbs-o-up"></i>  Após finalizar, deixe sua opinião&nbsp;sobre&nbsp;este&nbsp;módulo.</a></p></div>
+
+
+			</div>
+
+			
+
+			
+			
+
+
+
+</div>]]>
+		</texto>
+	
+	</slide>
+	
+</aula>
